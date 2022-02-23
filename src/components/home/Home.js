@@ -36,7 +36,7 @@ const Home = () => {
     return (
         <div>
         <div id="quotes">
-            <h2>Daily Quotes | Random Quotes for Your Day </h2>;
+            <h2>Random Quotes for Your Day </h2>;
         </div>
         <div id="container">
             <h2>{quote}</h2>
